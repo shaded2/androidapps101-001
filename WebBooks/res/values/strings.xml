@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Web Books</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_eloquent_javascript">Eloquent Javascript</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="javanotes">Java Notes</string>
+    <string name="title_activity_java_notes">Java Notes</string>
+
+</resources>

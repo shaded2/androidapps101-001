@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract constant &apos;TAG&apos; from expression &apos;&quot;MainActivity&quot;&apos;&#x0A;- Original project: &apos;survey&apos;&#x0A;- Constant name: &apos;TAG&apos;&#x0A;- Constant expression: &apos;&quot;MainActivity&quot;&apos;&#x0A;- Declared visibility: &apos;private&apos;&#x0A;- Replace occurrences of expression with constant" description="Extract constant &apos;TAG&apos;" flags="786432" id="org.eclipse.jdt.ui.extract.constant" input="/src&lt;com.eztransition.survey{MainActivity.java" name="TAG" qualify="false" replace="true" selection="2803 14" stamp="1400983932749" version="1.0" visibility="2"/>
+</session>

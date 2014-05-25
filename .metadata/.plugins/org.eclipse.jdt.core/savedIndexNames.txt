@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/dcato/training/Android/apps101/.metadata/.plugins/org.eclipse.jdt.core
+3087314004.index
+3198475530.index
+2157114408.index

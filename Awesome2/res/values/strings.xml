@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Awesome2</string>
+    <string name="action_settings">Settings</string>
+    <string name="caption">The American bison (Bison bison), also commonly known as the American buffalo, is a North American species of bison that once roamed the grasslands of North America in massive herds, became nearly extinct by a combination of commercial hunting and slaughter in the 19th century and introduction of bovine diseases from domestic cattle, and has made a recent resurgence largely restricted to a few national parks and reserves.</string>
+    <string name="baby_buffalo">Baby buffalo</string>
+
+</resources>
